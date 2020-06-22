@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "751311185446",
+    "firebase_url": "https://physical-fitness-4d01b.firebaseio.com",
+    "project_id": "physical-fitness-4d01b",
+    "storage_bucket": "physical-fitness-4d01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751311185446:android:fcefe615168b472c",
+        "android_client_info": {
+          "package_name": "com.example.physicalfitnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751311185446-8ct2eg0ipk5po76v0v73chsqn77kpvec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4Rn5Tccm8wRqcZbSGW5ztsGL5zfl808"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

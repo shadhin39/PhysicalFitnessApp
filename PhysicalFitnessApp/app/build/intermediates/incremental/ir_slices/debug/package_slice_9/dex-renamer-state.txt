@@ -1,0 +1,4 @@
+#Tue Mar 05 22:56:03 BDT 2019
+base.0=D\:\\PhysicalFitnessApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
