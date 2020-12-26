@@ -6,6 +6,9 @@
 
 # Language
  * **Java**
+ 
+ # Overview
+ * This is an android app that will help you to measure how much distance you have crossed at a particular time. This will assist you to keep your walking habit with some enriched features. 
 
 # How to run "Physical Fitness" android app
 
